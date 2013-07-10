@@ -1,4 +1,4 @@
 Vim-plugin-repository
 =====================
-This plugin helps you install any plugin from [http://vim.org/scriptts](http://vim.org/scripts/)
+This plugin helps you install any plugin from [http://www.vim.org/scriptts](http://www.vim.org/scripts/)
 
